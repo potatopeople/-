@@ -1,0 +1,122 @@
+﻿h1{
+   text-align:center;
+   color:#0efb2f;
+   letter-spacing: 30px;
+}
+
+#button {
+    margin:auto;
+    width:500px;
+    height:60px;
+    text-align:center;
+    letter-spacing:50px;
+}
+
+#box{
+     width:600px;
+     height:600px;
+     1border:1px solid chartreuse;
+     position:absolute;
+     left:calc(50% - 300px);
+     top:calc(50% - 300px);
+     text-align:center;
+}
+      	
+#div1{
+	 background:url("../images/魔法少女.jpg");
+     box-sizing:border-box;
+     width:200px;
+     height:200px;
+     float:left;
+     background-color:darkcyan;
+     border:1px solid chartreuse;
+     color:#FFF;
+}
+#div2{
+		 background:url("../images/魔法少女.jpg");
+		 background-position:-200px 0px;
+     box-sizing:border-box;
+     width:200px;
+     height:200px;
+     float:left;
+     background-color:darkcyan;
+     border:1px solid chartreuse;
+     color:#FFF;
+}
+#div3{
+		 background:url("../images/魔法少女.jpg");
+		 background-position:-400px 0px;
+     box-sizing:border-box;
+     width:200px;
+     height:200px;
+     float:left;
+     background-color:darkcyan;
+     border:1px solid chartreuse;
+     color:#FFF;
+}
+#div4{
+		 background:url("../images/魔法少女.jpg");
+		 background-position:0px -200px;
+     box-sizing:border-box;
+     width:200px;
+     height:200px;
+     float:left;
+     background-color:darkcyan;
+     border:1px solid chartreuse;
+     color:#FFF;
+}
+#div5{
+		 background:url("../images/魔法少女.jpg");
+		 background-position:-200px -200px;
+     box-sizing:border-box;
+     width:200px;
+     height:200px;
+     float:left;
+     background-color:darkcyan;
+     border:1px solid chartreuse;
+     color:#FFF;
+}
+#div6{
+		 background:url("../images/魔法少女.jpg");
+		 background-position:-400px -200px;
+     box-sizing:border-box;
+     width:200px;
+     height:200px;
+     float:left;
+     background-color:darkcyan;
+     border:1px solid chartreuse;
+     color:#FFF;
+}
+#div7{
+		 background:url("../images/魔法少女.jpg");
+		 background-position:0px -400px;
+     box-sizing:border-box;
+     width:200px;
+     height:200px;
+     float:left;
+     background-color:darkcyan;
+     border:1px solid chartreuse;
+     color:#FFF;
+}
+#div8{
+		 background:url("../images/魔法少女.jpg");
+		 background-position:-200px -400px;
+     box-sizing:border-box;
+     width:200px;
+     height:200px;
+     float:left;
+     background-color:darkcyan;
+     border:1px solid chartreuse;
+     color:#FFF;
+}
+#div9{
+		 background:url("../images/魔法少女.jpg");
+		 background-position:-400px -400px;
+     box-sizing:border-box;
+     width:200px;
+     height:200px;
+     float:left;
+     background-color:darkcyan;
+     border:1px solid chartreuse;
+     color:#FFF;
+} 
